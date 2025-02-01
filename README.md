@@ -1,7 +1,7 @@
 # Datathon 2025 - Final Submission
 
 ## Overview
-This repository contains the final submission for the Datathon 2025. The project is designed to [briefly describe what your project does, e.g., "analyzing financial trends using machine learning"].
+This repository contains the final submission for the Datathon 2025. The project is designed to analyse textual data from news articles to derive insights and relationship links.
 
 ## Repository Structure
 ```

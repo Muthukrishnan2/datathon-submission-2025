@@ -16,19 +16,13 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Muthukrishnan2/datathon-submission-2025
    cd datathon-submission-2025
    ```
 2. Open the Jupyter Notebook:
    ```bash
    jupyter notebook Final\ Datathon\ Code.ipynb
    ```
-
-## Dependencies
-All required dependencies are listed in `requirements.txt`. To install them, run:
-```bash
-pip install -r requirements.txt
-```
 
 ## How to Use
 1. Open the Jupyter Notebook (`Final Datathon Code.ipynb`).
